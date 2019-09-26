@@ -1,0 +1,16 @@
+section
+{
+	margin: 0;
+	width: 400px;
+
+}
+
+li{
+	padding: 20px;
+	border-top: solid 1px;
+	border-bottom: solid 1px;
+	border-color: #e1e1e5;
+}
+
+list-tile - none
+taip pat inline block kode blogai su ul ir il. il trūksta ul.
