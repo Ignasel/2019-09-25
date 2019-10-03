@@ -8,6 +8,10 @@ html{
 	height: 100%;
 }
 
+.container{
+	margin: 5px;
+}
+
 
 h3{
 	text-align: left;
@@ -46,7 +50,7 @@ p{
 
 p:nth-child(2){
 	font-weight: bold;
-	margin-top:6%;
+	margin-top:5%;
 }
 
 p:nth-child(3){
@@ -58,7 +62,7 @@ a{
 	color: #2995f2;
 }
 
-.footer{
+footer{
 	text-align: center;
 	padding-top: 50px;
 }
